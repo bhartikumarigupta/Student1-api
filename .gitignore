@@ -19,4 +19,7 @@ go.work
 # env files
 .env
 storage 
+/config
+
+
 
